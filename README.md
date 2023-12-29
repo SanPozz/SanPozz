@@ -9,10 +9,12 @@
 <br/>
 
 <div align="center">
-    - ✏️ I’m currently studying a carreer to become systems analyst
-    - 🌱 I’m currently learning Typescript!
-    - 📫 You can contact me on santiagolpozzolo@gmail.com
-    - ⚡ Loving the process!
+ 
+ ✏️ I’m currently studying a carreer to become systems analyst
+ 
+ 🌱 I’m currently learning **Typescript!**
+
+ ⚡ **Loving the process!**
 </div>
 
 <div align="center"> 
