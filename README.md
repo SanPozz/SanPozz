@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Rubik&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Santiago+Pozzolo!;" />
 </h1>
 
-<h3 align="center">A Full-Stack Developer from Buenos Aires, Argentina 🇦🇷</h3>
+<h3 align="center">A Backend Developer from Buenos Aires, Argentina 🇦🇷</h3>
 
 <br/>
 
